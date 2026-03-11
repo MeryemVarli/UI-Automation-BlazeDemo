@@ -40,7 +40,7 @@ git clone https://github.com/MeryemVarli/UI-Automation-BlazeDemo.git
     
     
 
-**#Features & Scenarios Tested**
+# **Features & Scenarios Tested**
 
 * E2E Purchase Flow: A data-driven scenario using Scenario Outline to validate the full checkout process
 * Login Functionality(Positive & Negative)
@@ -48,7 +48,7 @@ git clone https://github.com/MeryemVarli/UI-Automation-BlazeDemo.git
   
   
 
-**#Tests Report**
+# **Tests Report**
  **[View Interactive UI Test Report](target/uiReport.html)**
 > **Note:** The framework generates a detailed `uiReport.html` in the `target/` folder after every run. To view the report with full styling, download the repository and open the `uiReport.html` file in any browser.
 
