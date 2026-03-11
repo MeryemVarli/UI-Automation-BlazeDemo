@@ -49,7 +49,7 @@ git clone https://github.com/MeryemVarli/UI-Automation-BlazeDemo.git
   
 
 # **Tests Report**
- **[View Interactive UI Test Report](target/uiReport.html)**
+ **[View UI Test Report](http://localhost:63342/Comcast-UI/target/uiReport.html?_ijt=rqgneq7aaqomugolamffsdkv1&_ij_reload=RELOAD_ON_SAVE)**
 > **Note:** The framework generates a detailed `uiReport.html` in the `target/` folder after every run. To view the report with full styling, download the repository and open the `uiReport.html` file in any browser.
 
 
